@@ -1,0 +1,7 @@
+## Interface: 30400
+## Version: 304r001
+## Title: Baud Mark
+## Authors: Baudzila, Dejablue
+## Notes: Baudzila and Dejablue's simple raid target marker.
+
+BaudMark.xml
